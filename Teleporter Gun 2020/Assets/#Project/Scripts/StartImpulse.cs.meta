@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: c03ba927b4dd89b4dac522aa08f40524
+labels:
+- Gun
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

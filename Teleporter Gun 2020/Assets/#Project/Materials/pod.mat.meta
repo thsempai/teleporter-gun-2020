@@ -1,9 +1,8 @@
 fileFormatVersion: 2
-guid: 27481fe55df5f91419673ebb1ea29d83
-labels:
-- Gun
-PrefabImporter:
+guid: 42d4423371551644d8c4035010ed48bc
+NativeFormatImporter:
   externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
